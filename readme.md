@@ -13,5 +13,6 @@ detailFinder.test.js tests our module function on the follwing test cases:-
 * throws error if the passed airport code is not present in our airportData.json file.
 
 **How to Use**
+
 User can require this module in their js file and can use its method by simple calling that function.
 
